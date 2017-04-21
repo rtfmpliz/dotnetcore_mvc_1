@@ -1,0 +1,8 @@
+D:\DEV\dotnetcore\mvc\bin\Debug\netcoreapp1.1\mvc.deps.json
+D:\DEV\dotnetcore\mvc\bin\Debug\netcoreapp1.1\mvc.runtimeconfig.json
+D:\DEV\dotnetcore\mvc\bin\Debug\netcoreapp1.1\mvc.runtimeconfig.dev.json
+D:\DEV\dotnetcore\mvc\bin\Debug\netcoreapp1.1\mvc.dll
+D:\DEV\dotnetcore\mvc\bin\Debug\netcoreapp1.1\mvc.pdb
+D:\DEV\dotnetcore\mvc\obj\Debug\netcoreapp1.1\mvc.AssemblyInfo.cs
+D:\DEV\dotnetcore\mvc\obj\Debug\netcoreapp1.1\mvc.dll
+D:\DEV\dotnetcore\mvc\obj\Debug\netcoreapp1.1\mvc.pdb
